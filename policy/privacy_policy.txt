@@ -1,1 +1,47 @@
 Privacy Policy
+
+This Privacy Policy outlines how Manage!T ("the App"), owned by Chandan Pandey, collects, uses, and protects any information that you provide or that the App collects when you use the services provided by the App.
+
+Information Collection and Use
+
+The App may collect the following information:
+
+Google Advertising ID: The App may collect the Google Advertising ID to facilitate analytics and improve user experience.
+Usage Data
+
+The App may also collect information about how the app is used, such as:
+
+Device information (e.g., device model, operating system version)
+Log data (e.g., app crashes, errors)
+Usage patterns and preferences
+This information is collected to analyze trends, improve the App, and personalize the user experience.
+
+Data Security
+
+The App is committed to ensuring that your information is secure. We have implemented appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+Data Sharing
+
+The App does not share any collected data with third parties. All collected information is used solely for analytics and improving the user experience within the App.
+
+Data Retention
+
+The App retains collected data for as long as it is necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+
+User Controls
+
+Users have the following controls over their data:
+
+Opt-out: Users may choose to opt-out of data collection by disabling analytics in the App settings.
+Data Access: Users may request access to the data collected about them by contacting priyanka.techeazy@gmail.com.
+Children's Privacy
+
+The App does not knowingly collect personal information from children under the age of 13. If you believe that we have inadvertently collected information from a child under 13, please contact us immediately and we will promptly delete such information from our records.
+
+Changes to This Privacy Policy
+
+The App may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at priyanka.techeazy@gmail.com.
